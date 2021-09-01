@@ -1,5 +1,7 @@
 # Name It
 
+view in real time here ->  https://epicdevv.github.io/NameIt/
+
 A very cooooooool project!!
 
 ## Resources
